@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 9dc87e6a5f0dcd24a803e3c06bc7e623
+guid: 17f9702919a61cb4fa481a9c6a20513e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6388389237426139460
-    second: can_0
+      213: -5757309880514500042
+    second: EARL BOSS ANT_0
+  - first:
+      213: -1387627686434080342
+    second: EARL BOSS ANT_1
+  - first:
+      213: 3377135178808364745
+    second: EARL BOSS ANT_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: can_0
+      name: EARL BOSS ANT_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 6
-        width: 1295
-        height: 723
+        x: 1032
+        y: 1429
+        width: 420
+        height: 224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 441b6bf0a2e18a850800000000000000
-      internalID: 6388389237426139460
+      spriteID: 63a261eca2de910b0800000000000000
+      internalID: -5757309880514500042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EARL BOSS ANT_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1339
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9799d98f72ebce0800000000000000
+      internalID: -1387627686434080342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EARL BOSS ANT_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 1788
+        height: 1149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce09536d8efdde20800000000000000
+      internalID: 3377135178808364745
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      can_0: 6388389237426139460
+      EARL BOSS ANT_0: -5757309880514500042
+      EARL BOSS ANT_1: -1387627686434080342
+      EARL BOSS ANT_2: 3377135178808364745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

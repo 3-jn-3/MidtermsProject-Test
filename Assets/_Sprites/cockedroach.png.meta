@@ -1,58 +1,10 @@
 fileFormatVersion: 2
-guid: 9342024d9c3387b4f995a0137333739b
+guid: f4cc7548bc990024399dc7182a86927a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1738467918474295819
-    second: FIRE ANT 1_0
-  - first:
-      213: -4386793943424820914
-    second: FIRE ANT 1_1
-  - first:
-      213: -3841790610961902569
-    second: FIRE ANT 1_2
-  - first:
-      213: -7119093092545569262
-    second: FIRE ANT 1_3
-  - first:
-      213: -4463814904873933957
-    second: FIRE ANT 1_4
-  - first:
-      213: -6610112699263071282
-    second: FIRE ANT 1_5
-  - first:
-      213: -6818613040696911108
-    second: FIRE ANT 1_6
-  - first:
-      213: -4339402978081756541
-    second: FIRE ANT 1_7
-  - first:
-      213: 4237081313424390670
-    second: FIRE ANT 1_8
-  - first:
-      213: 4860213660446131378
-    second: FIRE ANT 1_9
-  - first:
-      213: -8251774599878202780
-    second: FIRE ANT 1_10
-  - first:
-      213: 6549746040674914469
-    second: FIRE ANT 1_11
-  - first:
-      213: 3418010478720614530
-    second: FIRE ANT 1_12
-  - first:
-      213: 2731240730164157099
-    second: FIRE ANT 1_13
-  - first:
-      213: -611338231099570330
-    second: FIRE ANT 1_14
-  - first:
-      213: 8028524092797453262
-    second: FIRE ANT 1_15
-  - first:
-      213: 1370156290746213680
-    second: FIRE ANT 1_16
+      213: 6264282113581363055
+    second: cockedroach_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -94,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -148,375 +100,463 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FIRE ANT 1_0
+      name: cockedroach_0
       rect:
         serializedVersion: 2
-        x: 216
-        y: 1447
-        width: 51
-        height: 22
+        x: 0
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0ab21e6c57402810800000000000000
-      internalID: 1738467918474295819
+      spriteID: f6fa9d884633fe650800000000000000
+      internalID: 6264282113581363055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_1
+      name: cockedroach_1
       rect:
         serializedVersion: 2
-        x: 224
-        y: 1284
-        width: 445
-        height: 289
+        x: 437
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e491453962afe13c0800000000000000
-      internalID: -4386793943424820914
+      spriteID: f246c63b73ccc7943acec94bd61d1548
+      internalID: -717597994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_2
+      name: cockedroach_2
       rect:
         serializedVersion: 2
-        x: 427
-        y: 610
-        width: 1099
-        height: 1030
+        x: 874
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7145f244bc73faac0800000000000000
-      internalID: -3841790610961902569
+      spriteID: 459beb659ccd115418fa17b501137380
+      internalID: 483724568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_3
+      name: cockedroach_3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1374
-        width: 85
-        height: 38
+        x: 1311
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 21e52e70d86e33d90800000000000000
-      internalID: -7119093092545569262
+      spriteID: 9ef5cc1e90cdf2847963a2b04c4709d0
+      internalID: -814569541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_4
+      name: cockedroach_4
       rect:
         serializedVersion: 2
-        x: 195
-        y: 1408
-        width: 33
-        height: 21
+        x: 1748
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b7325eb8ef75d02c0800000000000000
-      internalID: -4463814904873933957
+      spriteID: 58f7bbc06429c5144b6fda08158ec54c
+      internalID: 2117738354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_5
+      name: cockedroach_5
       rect:
         serializedVersion: 2
-        x: 1520
-        y: 1131
-        width: 17
-        height: 17
+        x: 2185
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ecb402b95892444a0800000000000000
-      internalID: -6610112699263071282
+      spriteID: b78168e89977edd4099807baf1dd3c35
+      internalID: 216982649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_6
+      name: cockedroach_6
       rect:
         serializedVersion: 2
-        x: 366
-        y: 1053
-        width: 47
-        height: 53
+        x: 2622
+        y: 996
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cfa1a68e09b6f51a0800000000000000
-      internalID: -6818613040696911108
+      spriteID: ec1097b8a84cd834a9cdc98487f4d826
+      internalID: 426262566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_7
+      name: cockedroach_7
       rect:
         serializedVersion: 2
-        x: 397
-        y: 1031
-        width: 14
-        height: 15
+        x: 0
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 38a2a2a8bf757c3c0800000000000000
-      internalID: -4339402978081756541
+      spriteID: 3a2b622483c2b47439bc2967deb4db12
+      internalID: 1292550797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_8
+      name: cockedroach_8
       rect:
         serializedVersion: 2
-        x: 368
-        y: 980
-        width: 25
-        height: 27
+        x: 437
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0a3b1b61032dca30800000000000000
-      internalID: 4237081313424390670
+      spriteID: 8356ecb1ce6e4ec468eb734bb5f216be
+      internalID: 1692501217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_9
+      name: cockedroach_9
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 601
-        width: 27
-        height: 25
+        x: 874
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b4846bd292f27340800000000000000
-      internalID: 4860213660446131378
+      spriteID: 47c17358dc232514d9b5307229a943f8
+      internalID: -1428137478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_10
+      name: cockedroach_10
       rect:
         serializedVersion: 2
-        x: 981
-        y: 325
-        width: 180
-        height: 257
+        x: 1311
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46a2baf98becb7d80800000000000000
-      internalID: -8251774599878202780
+      spriteID: 10a7de81f0b79ba4f916e3a69eba4372
+      internalID: 1592097832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_11
+      name: cockedroach_11
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 575
-        width: 16
-        height: 19
+        x: 1748
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5a0137b625f55ea50800000000000000
-      internalID: 6549746040674914469
+      spriteID: 379daf78427b4bb46b1511134acc02db
+      internalID: 1088499529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_12
+      name: cockedroach_12
       rect:
         serializedVersion: 2
-        x: 1160
-        y: 445
-        width: 47
-        height: 37
+        x: 2185
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28084b6cb663f6f20800000000000000
-      internalID: 3418010478720614530
+      spriteID: f1d8b0e0b5467d64a8216b3db70b3070
+      internalID: -1521764671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_13
+      name: cockedroach_13
       rect:
         serializedVersion: 2
-        x: 1162
-        y: 470
-        width: 41
-        height: 33
+        x: 2622
+        y: 498
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: baa538d29f057e520800000000000000
-      internalID: 2731240730164157099
+      spriteID: 05e6c1170b2be0c4f82081035178bfc3
+      internalID: 1701635702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_14
+      name: cockedroach_14
       rect:
         serializedVersion: 2
-        x: 980
-        y: 372
-        width: 20
-        height: 28
+        x: 0
+        y: 0
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 667c1b92e171487f0800000000000000
-      internalID: -611338231099570330
+      spriteID: cf2a497036a5e3344980338eaf660cb1
+      internalID: -1944538383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_15
+      name: cockedroach_15
       rect:
         serializedVersion: 2
-        x: 1168
-        y: 354
-        width: 81
-        height: 49
+        x: 437
+        y: 0
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec38bdd102c0b6f60800000000000000
-      internalID: 8028524092797453262
+      spriteID: 40328403d4678274f97c7f0af4088cd3
+      internalID: 1704538813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT 1_16
+      name: cockedroach_16
       rect:
         serializedVersion: 2
-        x: 1114
-        y: 335
-        width: 49
-        height: 33
+        x: 874
+        y: 0
+        width: 437
+        height: 498
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 035e1b413e5c30310800000000000000
-      internalID: 1370156290746213680
+      spriteID: 5b699b93f6cdf3842856eefb7aa2d4f1
+      internalID: -63297453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockedroach_17
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 437
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea132a3209c74647ac70ca65f90ed6b
+      internalID: 1220197411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockedroach_18
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 0
+        width: 437
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091560ed3ba8f1f4dab60cdbcdd253d7
+      internalID: -624978562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockedroach_19
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 0
+        width: 437
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06593eb0c0f408842b754a3d9c4c3739
+      internalID: -153062337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockedroach_20
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 0
+        width: 437
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6908da0cd93b6e47ae625dc83b9d0e6
+      internalID: -1382369466
       vertices: []
       indices: 
       edges: []
@@ -525,7 +565,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: cf8d8d065e79148479748b5cf430a5a2
     internalID: 0
     vertices: []
     indices: 
@@ -533,25 +573,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":437.0,"y":498.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      FIRE ANT 1_0: 1738467918474295819
-      FIRE ANT 1_1: -4386793943424820914
-      FIRE ANT 1_10: -8251774599878202780
-      FIRE ANT 1_11: 6549746040674914469
-      FIRE ANT 1_12: 3418010478720614530
-      FIRE ANT 1_13: 2731240730164157099
-      FIRE ANT 1_14: -611338231099570330
-      FIRE ANT 1_15: 8028524092797453262
-      FIRE ANT 1_16: 1370156290746213680
-      FIRE ANT 1_2: -3841790610961902569
-      FIRE ANT 1_3: -7119093092545569262
-      FIRE ANT 1_4: -4463814904873933957
-      FIRE ANT 1_5: -6610112699263071282
-      FIRE ANT 1_6: -6818613040696911108
-      FIRE ANT 1_7: -4339402978081756541
-      FIRE ANT 1_8: 4237081313424390670
-      FIRE ANT 1_9: 4860213660446131378
+      cockedroach_0: 6264282113581363055
+      cockedroach_1: -717597994
+      cockedroach_10: 1592097832
+      cockedroach_11: 1088499529
+      cockedroach_12: -1521764671
+      cockedroach_13: 1701635702
+      cockedroach_14: -1944538383
+      cockedroach_15: 1704538813
+      cockedroach_16: -63297453
+      cockedroach_17: 1220197411
+      cockedroach_18: -624978562
+      cockedroach_19: -153062337
+      cockedroach_2: 483724568
+      cockedroach_20: -1382369466
+      cockedroach_3: -814569541
+      cockedroach_4: 2117738354
+      cockedroach_5: 216982649
+      cockedroach_6: 426262566
+      cockedroach_7: 1292550797
+      cockedroach_8: 1692501217
+      cockedroach_9: -1428137478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

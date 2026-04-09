@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9dc87e6a5f0dcd24a803e3c06bc7e623
+guid: e1b039c52ae8a01498963a95dc60de2f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6388389237426139460
-    second: can_0
+      213: 207772181601378373
+    second: antiant_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: can_0
+      name: antiant_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 6
-        width: 1295
-        height: 723
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 441b6bf0a2e18a850800000000000000
-      internalID: 6388389237426139460
+      spriteID: 540ee86c2b722e200800000000000000
+      internalID: 207772181601378373
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      can_0: 6388389237426139460
+      antiant_0: 207772181601378373
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

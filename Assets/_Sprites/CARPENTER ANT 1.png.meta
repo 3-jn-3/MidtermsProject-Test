@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: 1a55878c2184a8b43943a0dd3fb4fcfc
+guid: 8561bc802a36c234bbd03da20d029e34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8456677087165712848
-    second: FIRE ANT_0
+      213: -5803834583529596127
+    second: CARPENTER ANT 1_0
   - first:
-      213: 7132953624767803517
-    second: FIRE ANT_1
+      213: -7296941267224732145
+    second: CARPENTER ANT 1_1
   - first:
-      213: 1664735325769855810
-    second: FIRE ANT_2
+      213: -410720610314275563
+    second: CARPENTER ANT 1_2
   - first:
-      213: -5455277365879908308
-    second: FIRE ANT_3
+      213: 750846655446607969
+    second: CARPENTER ANT 1_3
+  - first:
+      213: -1854518371167947026
+    second: CARPENTER ANT 1_4
+  - first:
+      213: -2554812342016448909
+    second: CARPENTER ANT 1_5
+  - first:
+      213: -5735824382449521919
+    second: CARPENTER ANT 1_6
+  - first:
+      213: -6226531393254803634
+    second: CARPENTER ANT 1_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +121,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FIRE ANT_0
+      name: CARPENTER ANT 1_0
       rect:
         serializedVersion: 2
-        x: 249
-        y: 1021
-        width: 26
-        height: 8
+        x: 331
+        y: 1396
+        width: 227
+        height: 308
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +136,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0367d4f9ef8d3aa80800000000000000
-      internalID: -8456677087165712848
+      spriteID: 12b57914233a47fa0800000000000000
+      internalID: -5803834583529596127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT_1
+      name: CARPENTER ANT 1_1
       rect:
         serializedVersion: 2
-        x: 273
-        y: 392
-        width: 1327
-        height: 1120
+        x: 769
+        y: 1317
+        width: 382
+        height: 451
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d70be9b97875df260800000000000000
-      internalID: 7132953624767803517
+      spriteID: f0e5e2c049e0cba90800000000000000
+      internalID: -7296941267224732145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT_2
+      name: CARPENTER ANT 1_2
       rect:
         serializedVersion: 2
-        x: 230
-        y: 1002
-        width: 27
-        height: 16
+        x: 1376
+        y: 1464
+        width: 258
+        height: 295
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2437e8965f35a1710800000000000000
-      internalID: 1664735325769855810
+      spriteID: 5153940f7c3dc4af0800000000000000
+      internalID: -410720610314275563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FIRE ANT_3
+      name: CARPENTER ANT 1_3
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1003
-        width: 7
-        height: 7
+        x: 121
+        y: 554
+        width: 498
+        height: 330
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +202,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c28df779326fa44b0800000000000000
-      internalID: -5455277365879908308
+      spriteID: 1686fa21e0b8b6a00800000000000000
+      internalID: 750846655446607969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARPENTER ANT 1_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 543
+        width: 471
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63919fd5d6346e0800000000000000
+      internalID: -1854518371167947026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARPENTER ANT 1_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 246
+        width: 336
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376635ef5bb7b8cd0800000000000000
+      internalID: -2554812342016448909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARPENTER ANT 1_6
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 397
+        width: 340
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b62162d124660b0800000000000000
+      internalID: -5735824382449521919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARPENTER ANT 1_7
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 393
+        width: 388
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47ba3affaae699a0800000000000000
+      internalID: -6226531393254803634
       vertices: []
       indices: 
       edges: []
@@ -210,10 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FIRE ANT_0: -8456677087165712848
-      FIRE ANT_1: 7132953624767803517
-      FIRE ANT_2: 1664735325769855810
-      FIRE ANT_3: -5455277365879908308
+      CARPENTER ANT 1_0: -5803834583529596127
+      CARPENTER ANT 1_1: -7296941267224732145
+      CARPENTER ANT 1_2: -410720610314275563
+      CARPENTER ANT 1_3: 750846655446607969
+      CARPENTER ANT 1_4: -1854518371167947026
+      CARPENTER ANT 1_5: -2554812342016448909
+      CARPENTER ANT 1_6: -5735824382449521919
+      CARPENTER ANT 1_7: -6226531393254803634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

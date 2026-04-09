@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9dc87e6a5f0dcd24a803e3c06bc7e623
+guid: da776efa507813842ba93ccbfd3fd4e9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6388389237426139460
-    second: can_0
+      213: 4767042612548410318
+    second: CARPENTER ANT_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: can_0
+      name: CARPENTER ANT_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 6
-        width: 1295
-        height: 723
+        x: 218
+        y: 481
+        width: 1462
+        height: 960
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 441b6bf0a2e18a850800000000000000
-      internalID: 6388389237426139460
+      spriteID: ecb191ecfffe72240800000000000000
+      internalID: 4767042612548410318
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      can_0: 6388389237426139460
+      CARPENTER ANT_0: 4767042612548410318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
